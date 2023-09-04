@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias Olveira</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [my Individual Project for Henry](https://github.com/Kobi96/PI-Food-main)
+- 🔭 I’m currently working on [my Final Project for Henry](https://github.com/Kobi96/PI-Food-main)
 
 - 📫 How to reach me **tobiasolveira@outlook.com**
 
