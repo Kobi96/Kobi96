@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobias Olveira</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [my Final Project for Henry](https://github.com/Kobi96/PI-Food-main)
-
 - 📫 How to reach me **tobiasolveira@outlook.com**
 
 - ⚡ Fun fact **I majored in Dramatic Arts, which has given me plenty of Soft Skills to work with when managing teams**
