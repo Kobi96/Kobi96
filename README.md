@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tobias olveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobias olveira" height="30" width="40" /></a>
-<a href="https://fb.com/tobias olveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobias olveira" height="30" width="40" /></a>
-<a href="https://instagram.com/tobias.olveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobias.olveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tobias-olveira-52a0311b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobias olveira" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tobias.olveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobias olveira" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tobias.olveira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobias.olveira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
